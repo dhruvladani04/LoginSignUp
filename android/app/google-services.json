@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973087736873",
+    "project_id": "internship-application-688cb",
+    "storage_bucket": "internship-application-688cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973087736873:android:a18536b65ff5e731e80838",
+        "android_client_info": {
+          "package_name": "com.example.intern_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOY_sZmPv6qUqCNU8XF5mU_bVNY0SYVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
